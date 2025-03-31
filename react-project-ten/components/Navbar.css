@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    background-color: beige;
+}
+.active-link {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  

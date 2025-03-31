@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth; /* Enables smooth scrolling */
+}
+
+body {
+  background-color: #f8f9fa; /* Light background for a modern look */
+  color: #333; /* Default text color */
+  line-height: 1.6; /* Improves readability */
+}

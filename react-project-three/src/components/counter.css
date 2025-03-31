@@ -1,0 +1,22 @@
+.counter-container{
+    background-color: rgb(87, 110, 190);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 1.5rem;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin-top:5px ;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    background-color: #29ce3c;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    height: 50px;
+    border-radius: 50%;
+    border: black #7c0404 ;
+}
